@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keywords</string>
+    <string name="app_add_keyword">add keyword</string>
+    <string name="app_notification">To add a note, you must press the Add button.</string>
+    <string name="app_btn_add">add</string>
+    <string name="app_txt_hint">add a note</string>
+    <string name="app_btn_remove">remove list</string>
+</resources>

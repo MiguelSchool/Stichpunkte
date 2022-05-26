@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stichpunkte</string>
+    <string name="app_add_keyword">Hinzufügen</string>
+    <string name="app_notification">Um eine Notiz hinzuzufügen, müssen Sie den Button hinzufügen betätigen</string>
+    <string name="app_btn_add">Hinzufügen</string>
+    <string name="app_txt_hint">Notiz hinzufügen</string>
+    <string name="app_btn_remove">Liste Zurücksetzen</string>
+</resources>
